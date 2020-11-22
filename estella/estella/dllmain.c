@@ -27,7 +27,8 @@ static DWORD CALLBACK app_pre_startup(void)
     struct gfx_config gfx_cfg;
 
     dprintf("Project Estella - Segatools for Privileged Fuckers\n");
-    dprintf("Brought to you by: BemaniWitch, dogtopus, Felix, JamesLewisLiu, mariodon, Midorica, mon, Praxis, Raki, Shiz, Tau\n");
+    dprintf("Brought to you by: Raki\n");
+    dprintf("Original code by: BemaniWitch, dogtopus, Felix, JamesLewisLiu, mariodon, Midorica, mon, Praxis, Shiz, Tau\n");
     dprintf("--------------------------------------------------\n");
     dprintf("<< You should give money to poor people.          \n");
     dprintf("       The government should've taxed you more. >>\n");
